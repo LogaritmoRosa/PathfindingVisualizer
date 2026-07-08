@@ -1,0 +1,9 @@
+# Excluir carpetas de compilación
+out/
+build/
+# Archivos de Visual Studio
+.vs/
+# Ejecutables
+*.exe
+*.obj
+*.pdb
